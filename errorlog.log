@@ -1,0 +1,238 @@
+2021-10-24 00:37:12,150 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-24 00:37:12,352 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 52111
+2021-10-24 00:37:12,411 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-24 00:37:12,542 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 52111
+2021-10-24 00:37:12,881 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-24 00:37:12,881 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-24 00:39:13,822 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-24 00:39:14,048 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 52111
+2021-10-24 00:39:14,071 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-24 00:39:14,177 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 52111
+2021-10-24 00:39:14,505 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-24 00:39:14,505 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-24 00:40:04,607 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [24/Oct/2021 00:40:04] "GET /log HTTP/1.1" 200 -
+2021-10-24 00:40:04,607 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [24/Oct/2021 00:40:04] "GET /log HTTP/1.1" 200 -
+2021-10-24 00:40:08,298 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [24/Oct/2021 00:40:08] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-24 00:40:08,298 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [24/Oct/2021 00:40:08] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-24 00:41:00,434 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [24/Oct/2021 00:41:00] "GET /log HTTP/1.1" 200 -
+2021-10-24 00:41:00,434 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [24/Oct/2021 00:41:00] "GET /log HTTP/1.1" 200 -
+2021-10-24 00:41:03,579 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [24/Oct/2021 00:41:03] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-24 00:41:03,579 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [24/Oct/2021 00:41:03] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-24 00:41:36,607 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-24 00:41:36,788 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 52111
+2021-10-24 00:41:36,830 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-24 00:41:36,884 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 52111
+2021-10-24 00:41:37,277 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-24 00:41:37,277 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-24 00:42:11,410 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [24/Oct/2021 00:42:11] "GET /log HTTP/1.1" 200 -
+2021-10-24 00:42:11,410 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [24/Oct/2021 00:42:11] "GET /log HTTP/1.1" 200 -
+2021-10-24 00:42:14,683 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [24/Oct/2021 00:42:14] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-24 00:42:14,683 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [24/Oct/2021 00:42:14] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-26 16:39:46,732 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-26 16:39:47,040 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 61804
+2021-10-26 16:39:47,126 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-26 16:39:47,299 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 61804
+2021-10-26 16:39:48,723 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-26 16:39:48,723 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-26 16:40:06,172 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [26/Oct/2021 16:40:06] "GET / HTTP/1.1" 200 -
+2021-10-26 16:40:06,172 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [26/Oct/2021 16:40:06] "GET / HTTP/1.1" 200 -
+2021-10-26 16:40:09,894 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [26/Oct/2021 16:40:09] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-26 16:40:09,894 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [26/Oct/2021 16:40:09] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-26 16:40:13,274 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [26/Oct/2021 16:40:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-10-26 16:40:13,274 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [26/Oct/2021 16:40:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-10-26 16:40:49,984 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-26 16:40:50,162 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 61804
+2021-10-26 16:40:50,253 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-26 16:40:50,404 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 61804
+2021-10-26 16:40:50,891 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-26 16:40:50,891 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-26 16:41:24,245 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [26/Oct/2021 16:41:24] "GET / HTTP/1.1" 200 -
+2021-10-26 16:41:24,245 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [26/Oct/2021 16:41:24] "GET / HTTP/1.1" 200 -
+2021-10-26 16:41:28,297 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [26/Oct/2021 16:41:28] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-26 16:41:28,297 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [26/Oct/2021 16:41:28] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-26 16:41:32,935 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [26/Oct/2021 16:41:32] "GET /log HTTP/1.1" 200 -
+2021-10-26 16:41:32,935 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [26/Oct/2021 16:41:32] "GET /log HTTP/1.1" 200 -
+2021-10-26 16:41:36,501 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [26/Oct/2021 16:41:36] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-26 16:41:36,501 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [26/Oct/2021 16:41:36] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-26 16:41:47,865 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [26/Oct/2021 16:41:47] "GET / HTTP/1.1" 200 -
+2021-10-26 16:41:47,865 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [26/Oct/2021 16:41:47] "GET / HTTP/1.1" 200 -
+2021-10-26 16:41:51,682 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [26/Oct/2021 16:41:51] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-26 16:41:51,682 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [26/Oct/2021 16:41:51] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-26 16:50:19,539 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [26/Oct/2021 16:50:19] "GET /log HTTP/1.1" 200 -
+2021-10-26 16:50:19,539 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [26/Oct/2021 16:50:19] "GET /log HTTP/1.1" 200 -
+2021-10-26 16:50:24,380 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [26/Oct/2021 16:50:24] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-26 16:50:24,380 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [26/Oct/2021 16:50:24] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-26 17:11:52,174 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-26 17:11:52,284 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 61804
+2021-10-26 17:11:52,321 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-26 17:11:52,459 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 61804
+2021-10-27 13:30:54,469 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 13:30:54,633 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 52724
+2021-10-27 13:30:54,678 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 13:30:54,762 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 52724
+2021-10-27 13:30:55,396 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 13:30:55,396 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 13:31:00,465 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [27/Oct/2021 13:31:00] "GET / HTTP/1.1" 200 -
+2021-10-27 13:31:00,465 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [27/Oct/2021 13:31:00] "GET / HTTP/1.1" 200 -
+2021-10-27 13:31:05,628 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [27/Oct/2021 13:31:05] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-27 13:31:05,628 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [27/Oct/2021 13:31:05] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-27 13:31:26,035 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [27/Oct/2021 13:31:26] "GET /log HTTP/1.1" 200 -
+2021-10-27 13:31:26,035 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [27/Oct/2021 13:31:26] "GET /log HTTP/1.1" 200 -
+2021-10-27 13:31:30,962 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [27/Oct/2021 13:31:30] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-27 13:31:30,962 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [27/Oct/2021 13:31:30] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-27 18:31:54,683 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 18:31:54,810 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 53068
+2021-10-27 18:31:55,076 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 18:31:55,076 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 18:34:28,978 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 18:34:29,189 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 52545
+2021-10-27 18:34:29,482 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 18:34:29,482 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 18:37:36,765 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 18:37:37,158 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 53145
+2021-10-27 18:38:00,210 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 18:38:00,514 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 53145
+2021-10-27 18:38:00,883 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 18:38:00,883 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 18:38:24,342 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 18:38:24,489 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 53145
+2021-10-27 18:38:24,811 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 18:38:24,811 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 18:38:46,811 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 18:38:46,959 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 53145
+2021-10-27 18:38:47,240 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 18:38:47,240 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 18:39:05,642 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 18:39:05,980 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 53145
+2021-10-27 18:39:06,019 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 18:39:06,142 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 53145
+2021-10-27 18:39:06,546 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 18:39:06,546 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 23:51:53,869 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 23:51:54,161 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-27 23:51:54,214 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 23:51:54,350 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-27 23:51:55,053 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 23:51:55,053 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 23:52:34,170 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 23:52:34,384 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-27 23:52:34,427 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 23:52:34,565 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-27 23:52:35,079 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 23:52:35,079 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 23:56:28,660 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 23:56:28,833 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-27 23:56:28,871 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-27 23:56:29,043 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-27 23:56:29,618 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-27 23:56:29,618 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 00:00:54,401 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 00:00:54,575 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 00:00:54,618 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 00:00:54,749 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 00:00:55,477 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 00:00:55,477 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:02:06,273 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:02:06,548 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:02:06,593 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:02:06,724 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:06:16,869 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:06:17,025 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:06:17,066 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:06:17,210 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:06:17,651 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:06:17,651 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:06:46,408 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:06:46,560 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:06:46,606 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:06:46,736 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:06:47,209 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:06:47,209 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:08:06,298 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:08:06,454 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:08:06,496 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:08:06,628 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:08:07,072 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:08:07,072 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:08:48,965 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:08:49,148 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:08:49,192 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:08:49,334 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:08:49,863 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:08:49,863 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:09:03,773 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:09:03,943 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:09:03,991 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:09:04,128 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:09:04,591 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:09:04,591 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:10:03,813 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:10:04,008 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:10:04,050 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:10:04,197 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:10:04,660 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:10:04,660 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:10:21,035 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:10:21,185 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:10:21,227 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:10:21,360 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:10:21,806 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:10:21,806 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:12:37,868 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:12:38,017 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:12:38,058 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:12:38,200 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:12:38,634 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:12:38,634 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:14:41,359 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:14:41,557 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:14:41,608 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:14:41,756 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:14:42,258 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:14:42,258 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:15:24,259 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:15:24,421 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:15:24,464 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:15:24,611 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:15:25,101 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:15:25,101 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:18:59,608 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:18:59,780 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:18:59,825 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:18:59,964 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:19:00,399 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:19:00,399 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:19:43,863 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:19:44,138 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:19:44,185 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:19:44,316 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:19:44,785 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:19:44,785 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:20:22,520 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:20:22,672 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:20:22,717 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:20:22,875 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:20:23,286 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:20:23,286 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:21:42,724 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:21:42,877 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:21:42,919 , connectionpool.py , urllib3.connectionpool ,  DEBUG , Starting new HTTPS connection (1): gaana.com:443
+2021-10-28 01:21:43,058 , connectionpool.py , urllib3.connectionpool ,  DEBUG , https://gaana.com:443 "GET /songs HTTP/1.1" 200 54678
+2021-10-28 01:21:43,443 , _internal.py , werkzeug ,  INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:21:43,443 , _internal.py , werkzeug , INFO ,  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-28 01:22:26,116 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [28/Oct/2021 01:22:26] "GET / HTTP/1.1" 200 -
+2021-10-28 01:22:26,116 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [28/Oct/2021 01:22:26] "GET / HTTP/1.1" 200 -
+2021-10-28 01:22:31,410 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [28/Oct/2021 01:22:31] "GET /static/styles/index.css HTTP/1.1" 200 -
+2021-10-28 01:22:31,410 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [28/Oct/2021 01:22:31] "GET /static/styles/index.css HTTP/1.1" 200 -
+2021-10-28 01:22:32,112 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [28/Oct/2021 01:22:32] "GET /static/styles/index.css HTTP/1.1" 200 -
+2021-10-28 01:22:32,112 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [28/Oct/2021 01:22:32] "GET /static/styles/index.css HTTP/1.1" 200 -
+2021-10-28 01:22:41,105 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [28/Oct/2021 01:22:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-10-28 01:22:41,105 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [28/Oct/2021 01:22:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-10-28 01:22:56,720 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [28/Oct/2021 01:22:56] "GET / HTTP/1.1" 200 -
+2021-10-28 01:22:56,720 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [28/Oct/2021 01:22:56] "GET / HTTP/1.1" 200 -
+2021-10-28 01:23:00,538 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [28/Oct/2021 01:23:00] "GET /log HTTP/1.1" 200 -
+2021-10-28 01:23:00,538 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [28/Oct/2021 01:23:00] "GET /log HTTP/1.1" 200 -
+2021-10-28 01:23:04,529 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [28/Oct/2021 01:23:04] "GET /log HTTP/1.1" 200 -
+2021-10-28 01:23:04,529 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [28/Oct/2021 01:23:04] "GET /log HTTP/1.1" 200 -
+2021-10-28 01:23:11,103 , _internal.py , werkzeug ,  INFO , 127.0.0.1 - - [28/Oct/2021 01:23:11] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -
+2021-10-28 01:23:11,103 , _internal.py , werkzeug , INFO , 127.0.0.1 - - [28/Oct/2021 01:23:11] "[36mGET /static/styles/index.css HTTP/1.1[0m" 304 -

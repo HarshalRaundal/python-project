@@ -1,0 +1,1514 @@
+[
+ {
+  "date-time: ": "2021-10-24 00:37:12,150",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:37:12,352",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 52111\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:37:12,411",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:37:12,542",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 52111\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:37:12,881",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:37:12,881",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:39:13,822",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:39:14,048",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 52111\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:39:14,071",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:39:14,177",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 52111\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:39:14,505",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:39:14,505",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:40:04,607",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:40:04] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:40:04,607",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:40:04] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:40:08,298",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:40:08] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:40:08,298",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:40:08] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:41:00,434",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:41:00] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:41:00,434",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:41:00] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:41:03,579",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:41:03] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:41:03,579",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:41:03] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:41:36,607",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:41:36,788",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 52111\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:41:36,830",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:41:36,884",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 52111\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:41:37,277",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:41:37,277",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:42:11,410",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:42:11] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:42:11,410",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:42:11] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:42:14,683",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:42:14] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-24 00:42:14,683",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [24/Oct/2021 00:42:14] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:39:46,732",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:39:47,040",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 61804\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:39:47,126",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:39:47,299",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 61804\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:39:48,723",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:39:48,723",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:06,172",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:40:06] \"GET / HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:06,172",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:40:06] \"GET / HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:09,894",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:40:09] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:09,894",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:40:09] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:13,274",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:40:13] \"\u001b[33mGET /favicon.ico HTTP/1.1\u001b[0m\" 404 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:13,274",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:40:13] \"\u001b[33mGET /favicon.ico HTTP/1.1\u001b[0m\" 404 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:49,984",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:50,162",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 61804\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:50,253",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:50,404",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 61804\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:50,891",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:40:50,891",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:24,245",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:24] \"GET / HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:24,245",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:24] \"GET / HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:28,297",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:28] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:28,297",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:28] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:32,935",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:32] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:32,935",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:32] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:36,501",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:36] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:36,501",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:36] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:47,865",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:47] \"GET / HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:47,865",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:47] \"GET / HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:51,682",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:51] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:41:51,682",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:41:51] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:50:19,539",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:50:19] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:50:19,539",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:50:19] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:50:24,380",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:50:24] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 16:50:24,380",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [26/Oct/2021 16:50:24] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-26 17:11:52,174",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-26 17:11:52,284",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 61804\n"
+ },
+ {
+  "date-time: ": "2021-10-26 17:11:52,321",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-26 17:11:52,459",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 61804\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:30:54,469",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:30:54,633",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 52724\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:30:54,678",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:30:54,762",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 52724\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:30:55,396",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:30:55,396",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:31:00,465",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [27/Oct/2021 13:31:00] \"GET / HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:31:00,465",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [27/Oct/2021 13:31:00] \"GET / HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:31:05,628",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [27/Oct/2021 13:31:05] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:31:05,628",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [27/Oct/2021 13:31:05] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:31:26,035",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [27/Oct/2021 13:31:26] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:31:26,035",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [27/Oct/2021 13:31:26] \"GET /log HTTP/1.1\" 200 -\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:31:30,962",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": "127.0.0.1 - - [27/Oct/2021 13:31:30] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-27 13:31:30,962",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": "127.0.0.1 - - [27/Oct/2021 13:31:30] \"\u001b[36mGET /static/styles/index.css HTTP/1.1\u001b[0m\" 304 -\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:31:54,683",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:31:54,810",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 53068\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:31:55,076",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:31:55,076",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:34:28,978",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:34:29,189",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 52545\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:34:29,482",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:34:29,482",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:37:36,765",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:37:37,158",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 53145\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:00,210",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:00,514",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 53145\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:00,883",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:00,883",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:24,342",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:24,489",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 53145\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:24,811",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:24,811",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:46,811",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:46,959",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 53145\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:47,240",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:38:47,240",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:39:05,642",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:39:05,980",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 53145\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:39:06,019",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:39:06,142",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 53145\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:39:06,546",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 18:39:06,546",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:51:53,869",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:51:54,161",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:51:54,214",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:51:54,350",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:51:55,053",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:51:55,053",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:52:34,170",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:52:34,384",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:52:34,427",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:52:34,565",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:52:35,079",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:52:35,079",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:56:28,660",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:56:28,833",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:56:28,871",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:56:29,043",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:56:29,618",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-27 23:56:29,618",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 00:00:54,401",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 00:00:54,575",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 00:00:54,618",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 00:00:54,749",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 00:00:55,477",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 00:00:55,477",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:02:06,273",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:02:06,548",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:02:06,593",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:02:06,724",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:16,869",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:17,025",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:17,066",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:17,210",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:17,651",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:17,651",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:46,408",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:46,560",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:46,606",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:46,736",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:47,209",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:06:47,209",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:06,298",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:06,454",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:06,496",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:06,628",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:07,072",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:07,072",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:48,965",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:49,148",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:49,192",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:49,334",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:49,863",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:08:49,863",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:09:03,773",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:09:03,943",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:09:03,991",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:09:04,128",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:09:04,591",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:09:04,591",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:03,813",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:04,008",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:04,050",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:04,197",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:04,660",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:04,660",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:21,035",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:21,185",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:21,227",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:21,360",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:21,806",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:10:21,806",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:12:37,868",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:12:38,017",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:12:38,058",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:12:38,200",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:12:38,634",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:12:38,634",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:14:41,359",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:14:41,557",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:14:41,608",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:14:41,756",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:14:42,258",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:14:42,258",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:15:24,259",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:15:24,421",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:15:24,464",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:15:24,611",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:15:25,101",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:15:25,101",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:18:59,608",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:18:59,780",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:18:59,825",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:18:59,964",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:19:00,399",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:19:00,399",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:19:43,863",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:19:44,138",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:19:44,185",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:19:44,316",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:19:44,785",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:19:44,785",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:20:22,520",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:20:22,672",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:20:22,717",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "Starting new HTTPS connection (1): gaana.com:443\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:20:22,875",
+  "filename: ": "connectionpool.py",
+  "logger: ": "urllib3.connectionpool",
+  "Level: ": " DEBUG",
+  "message: ": "https://gaana.com:443 \"GET /songs HTTP/1.1\" 200 54678\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:20:23,286",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": " INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ },
+ {
+  "date-time: ": "2021-10-28 01:20:23,286",
+  "filename: ": "_internal.py",
+  "logger: ": "werkzeug",
+  "Level: ": "INFO",
+  "message: ": " * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)\n"
+ }
+]
